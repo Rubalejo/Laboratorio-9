@@ -8,13 +8,33 @@ PRÁCTICA NO.9 FASORES
 
 **9.1 OBJETIVO DE LA PRÁCTICA**
 
-Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
+* Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
 **9.2.OBJETIVO ESPECIFICO**
+
+* Afianzar experimentalmente las leyes de conservacion de energia electrica a traves de los fasores
+
+* Comparar la matematica de coordenadas rectangulares del plano complejo a polares y viceversa
+
+**9.22 OBJETIVO GENERAL**
+
+Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
 **9.3.REQUISITOS PREVIOS**
 
 **9.4. MARCO TEORICO**
+
+![image](https://user-images.githubusercontent.com/105680588/186829835-8eb379de-6216-4e04-a436-3c2e1bf21097.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186829431-8de3716e-da6c-4811-8c99-4b87eb9b2f6a.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186829471-704cbcfa-8229-4df5-8589-4525c5abc469.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186829499-b43b57a9-4485-47ba-8ecc-7ad67e519762.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186829516-aac6956c-6d1e-4b9d-a5cd-36515382e896.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186829536-df67916b-b4f8-45ee-8a26-fcd313bc46a2.png)
 
 **9.5. MATERIAL Y EQUIPO REQUERIDO**
 
@@ -65,6 +85,10 @@ ____________________________________________________________________
 **9.7. VIDEO**
 
 **9.8. CONCLUSIONES**
+
+* El fasor se caracteriza por se una cantidad que cambia dependiendo del tiempo, pero en la electrónica se le considera un vector y en est caso se presenta en dos tipos de coordenadas rectangulares representadas de (A + jB) y las polares (C∠θ).
+
+* La fase se puede representar mediante un número complejo que tiene una parte real y una parte imaginaria. En forma rectangular, un número complejo se puede representar mediante un punto en un plano bidimensional. A diferencia de la forma rectangular, la forma polar de un número complejo se escribe en términos de volúmenes y ángulos.
 
 **9.9. BIBLIOGRAFIA**
 
