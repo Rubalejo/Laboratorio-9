@@ -52,9 +52,20 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 _____________________________________________________________________
 
+![image](https://user-images.githubusercontent.com/105680588/186805595-e263e5ba-fd57-4170-b5f9-52112d02e317.png)
 
+![image](https://user-images.githubusercontent.com/105680588/186805620-c9691a9e-1263-44fd-81a7-b4b6808d86af.png)
 
+____________________________________________________________________
 
+![image](https://user-images.githubusercontent.com/105680588/186808572-011caeeb-e6ed-45eb-a9e0-052b838bbf6c.png)
 
+**9.5.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados**
+
+**9.7. VIDEO**
+
+**9.8. CONCLUSIONES**
+
+**9.9. BIBLIOGRAFIA**
 
 
