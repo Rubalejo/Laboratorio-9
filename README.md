@@ -138,6 +138,8 @@ ________________________________________________________________________________
 
 **9.7. VIDEO**
 
+https://www.youtube.com/watch?v=HevsaWQQNggjId0&feature=youtu.be874&ab_channel=RubenBustos
+
 **9.8. CONCLUSIONES**
 
 * El fasor se caracteriza por se una cantidad que cambia dependiendo del tiempo, pero en la electrónica se le considera un vector y en est caso se presenta en dos tipos de coordenadas rectangulares representadas de (A + jB) y las polares (C∠θ).
@@ -146,4 +148,4 @@ ________________________________________________________________________________
 
 **9.9. BIBLIOGRAFIA**
 
-
+Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
