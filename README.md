@@ -82,6 +82,36 @@ ____________________________________________________________________
 
 **9.5.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados**
 
+**A) 2 + 3j =**
+
+![image](https://user-images.githubusercontent.com/105680588/186830431-022f5f78-9be8-444a-997f-9563b7296313.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186830475-3d58adab-254e-40ea-8d33-1f11927de5d4.png)
+
+**B) -8 + 6.2j =**
+
+![image](https://user-images.githubusercontent.com/105680588/186830778-ee4ec542-0845-4b81-b127-b150ec2fb104.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186831105-efed7e4b-da0d-44f1-9b9a-15773ddc2c9e.png)
+
+**C) 4.3 - 2.8j =**
+
+![image](https://user-images.githubusercontent.com/105680588/186831406-07e15b3f-390b-4656-a948-f061d471ea03.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186831449-de900bbf-ec3e-4351-9817-ce228b48cd3b.png)
+
+**D) -6-3.2j =**
+
+![image](https://user-images.githubusercontent.com/105680588/186831697-1a9bcdab-7f8b-4416-a92f-a965f094335a.png)
+
+_________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105680588/186831971-4947b31b-4062-423d-bde6-27150a081bb7.png)
+
+
+
+
+
 **9.7. VIDEO**
 
 **9.8. CONCLUSIONES**
