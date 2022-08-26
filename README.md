@@ -22,24 +22,39 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 **9.5.1. Sin emplear calculadora. Transforme a su forma polar:**
 
-A) 2 + 3j =
+**A) 2 + 3j =**
 
 ![image](https://user-images.githubusercontent.com/105680588/186793239-0eaff57d-24a0-43d0-a4dc-6953db76607a.png)
 
-B) -8 + 6.2j =
+**B) -8 + 6.2j =**
 
 ![image](https://user-images.githubusercontent.com/105680588/186793272-46312bad-df88-47e5-9476-918f47a1daf0.png)
 
-C) 4.3 - 2.8j =
+**C) 4.3 - 2.8j =**
 
 ![image](https://user-images.githubusercontent.com/105680588/186793337-3d21861c-f336-4ae1-bb7b-1f04bed6c62b.png)
 
-D) -6-3.2j =
+**D) -6-3.2j =**
 
 ![image](https://user-images.githubusercontent.com/105680588/186793381-6aa35a07-bdf2-4b92-be22-66d431692f55.png)
 
 **9.5.2. Sin emplear calculadora. Transforme a su forma rectangular:**
 
-A) 36|_-10_
+![image](https://user-images.githubusercontent.com/105680588/186795477-f14dad2c-acb1-4e96-aa50-91e58ba16383.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186795514-bd3ec401-b25e-4d9d-9457-ac98e7012f8f.png)
+
+**9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
+
+![image](https://user-images.githubusercontent.com/105680588/186799370-4e258976-ee0f-48cf-8d7f-448b809e3313.png)
+
+![image](https://user-images.githubusercontent.com/105680588/186799521-ae96cabb-0eed-4133-abcb-b118d19a00d5.png)
+
+_____________________________________________________________________
+
+
+
+
+
 
 
