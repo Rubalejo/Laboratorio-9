@@ -1,10 +1,10 @@
 **Laboratorio 9**
 
-**Integrantes: Altamirano Ricardo, Novoa Jorge, Bustos Ruben**
+**Integrantes:** Altamirano Ricardo, Novoa Jorge, Bustos Ruben
 
-**Nrc: 7318**
+**Nrc:** 7318
 
-PRÁCTICA NO.9 FASORES
+**PRÁCTICA NO.9 FASORES**
 
 **9.1 OBJETIVO DE LA PRÁCTICA**
 
